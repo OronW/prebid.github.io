@@ -18,6 +18,7 @@ gvl_id: 280
 
 To use this adapter and for additional information, please contact: 
 amir.g@openweb.com
+
 This adapter requires setup and approval before being used. 
 
 ### Bid Parameters
